@@ -1,3 +1,5 @@
+https://gertmadsen.github.io/cphbusiness-sem3-cd/
+
 # cphbusiness-sem3-cd
 
 This README outlines the details of collaborating on this Ember application.
